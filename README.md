@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DeepchandPrajapat&label=Profile%20views&color=0e75b6&style=flat" alt="DeepchandPrajapat" /> </p>
 
-<h3>I'm a passionate developer exploring the world of **Python**, **Flask**, and **AI/Machine Learning**.</h3>
+<h3>I'm a passionate developer exploring the world of Python, Flask, and AI/Machine Learning.</h3>
 
 - 🔭 I’m currently working on building web applications using Flask
 - 
