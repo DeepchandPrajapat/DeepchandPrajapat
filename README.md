@@ -17,3 +17,8 @@
 - 📫 How to reach me: [kdeepchand2005@gmail.com]
 - 
 - ⚡ Fun fact: I love turning real-life ideas into code and learning new tech every day!
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/ig.deepchand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yogesh.deepak.pawar" height="30" width="40" /></a>
+</p>
