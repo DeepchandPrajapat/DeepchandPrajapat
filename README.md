@@ -26,7 +26,7 @@
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
-## 🛠 Languages
+## 💻 Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,c,js" />
@@ -34,7 +34,7 @@
 
 ---
 
-## 🌐 Frontend
+## 🌐 Frontend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind" />
@@ -42,7 +42,7 @@
 
 ---
 
-## ⚙️ Backend & APIs
+## ⚙️ Backend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=flask,fastapi" />
@@ -50,10 +50,24 @@
 
 ---
 
-## 🗄 Databases & Cloud
+## 🗄️ Databases & Cloud
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,supabase,mysql" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" />
+</p>
+
+---
+
+## 🤖 AI / Machine Learning
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
+  <img src="https://matplotlib.org/_static/images/logo2.svg" width="45"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45"/>
 </p>
 
 ---
@@ -66,27 +80,29 @@
 
 ---
 
-## 🤖 AI / Machine Learning
+## 🧠 AI Technologies
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45"/>
-</p>
+
+<img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/RAG-5C2D91?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Sentence_Transformers-FF6F61?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
 
 ---
 
-## 🧠 Currently Working With
+## ☁️ Deployment
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge)
-![Sentence%20Transformers](https://img.shields.io/badge/Sentence_Transformers-FF6F61?style=for-the-badge)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-5C2D91?style=for-the-badge)
+<p>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+</p>
+
+</p>
